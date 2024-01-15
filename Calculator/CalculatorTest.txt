@@ -1,0 +1,15 @@
+public class CalculatorTest{
+
+
+
+	public void testThatCalculatorCanAddTwoPositiveNumber(){
+		Calculator calculator = mew Calculator();
+
+
+
+
+	}
+
+
+
+}
